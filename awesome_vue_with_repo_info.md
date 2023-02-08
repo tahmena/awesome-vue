@@ -1,4 +1,5 @@
-<p align="center">
+<div>
+  <p align="center">
  <br>
   <img alt="awesome" src="./assets/logo.svg" width="400">
    <br>
@@ -2567,3 +2568,4 @@ application.  By @Haixing-Hu
   <img alt="CC0" src="https://i.creativecommons.org/p/zero/1.0/88x31.png"/>
  </a>
 </p>
+</div>
